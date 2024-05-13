@@ -31,7 +31,4 @@ t1_8-0-12:
   script:
     - php toto.php
 
-test_8-0-12-cli:
-  stage: test
-  script:
-    - php toto.php
+
